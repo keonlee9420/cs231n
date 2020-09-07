@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# a3 dataset
+a3/cs231n/datasets/coco_captioning
